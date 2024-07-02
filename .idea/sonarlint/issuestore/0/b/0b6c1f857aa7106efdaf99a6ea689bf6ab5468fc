@@ -1,0 +1,10 @@
+
+W
+java:S1700
+"Rename field "board"(ÞáÓ¦8û¶ø©‡2J$c85732fe-3ac2-40b0-ab75-3f25bd62f5b7
+—	java:S116"URename this field "BLACK_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý†üú8þ¶ø©‡2J$da6ec5c8-5c57-4721-8ec2-67a4215a3758
+v	java:S116"URename this field "WHITE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÇÿ©ýÿÿÿÿ8Ýçàª‡2
+d
+java:S1170"!Make this final field static too.(ý†üú8€·ø©‡2J$87cf4e32-21df-4265-a2eb-8ae751acdb5f
+i
+java:S1170"!Make this final field static too.(ûÇÿ©ýÿÿÿÿ8€·ø©‡2J$ff401bda-1d7d-45fa-94b5-046f7e0ad9db
